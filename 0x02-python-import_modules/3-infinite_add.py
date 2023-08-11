@@ -9,5 +9,5 @@ def main():
     print("{}".format(total))
 
 
-if __name__ == "__main":
+if __name__ == "__main__":
     main():
