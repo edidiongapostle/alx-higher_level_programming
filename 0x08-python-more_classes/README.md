@@ -1,7 +1,7 @@
 # Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-##General
+## General
 Why Python programming is awesome
 What is OOP
 “first-class everything”
@@ -29,8 +29,9 @@ What is and what does contain `__dict__` of a class and of an instance of a clas
 How does Python find the attributes of an object or class
 How to use the `getattr` function
 
-Requirements
-General
+# Requirements
+
+## General
 Allowed editors: `vi`, `vim`, `emacs`
 All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 All your files should end with a new line
